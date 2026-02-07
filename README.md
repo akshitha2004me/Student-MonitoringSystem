@@ -1,2 +1,2 @@
-# Student-MonitoringSystem
+TECHMENTORX
 To enhance academic activities
